@@ -3,7 +3,7 @@
 
 ![badges](https://img.shields.io/badge/HTML-CSS-orange)
 
-## [Live Link](https://monstera-lp.netlify.app/)
+## [Live Link](https://headphones-home-page.netlify.app/)
 
 ### project name:Headphones Home Page with pure html and css
 ## Hy, there!!
